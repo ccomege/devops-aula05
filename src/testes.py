@@ -16,6 +16,7 @@ else:
                 if elemento != '.':
                     erroInicializar = True
 
+                    
 if erroInicializar:
     sys.exit(1)
 else:
